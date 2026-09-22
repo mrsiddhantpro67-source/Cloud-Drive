@@ -1,0 +1,19 @@
+{
+  "name": "clouddrive-app",
+  "version": "1.0.0",
+  "description": "Local browser-based CloudDrive app served with Express on Render",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
